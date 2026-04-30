@@ -1,16 +1,14 @@
-## Hi there 👋
+<h3 align="center">noblenote</h3>
 
-<!--
-**n0blenote/n0blenote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.kernelkennel.com">site</a> •
+  <a href="https://codeberg.org/noblenote">codeberg</a>
+</p>
 
-Here are some ideas to get you started:
+---
+I'm noblenote/nicole, and currently am a BCmpSci student that is interested in binary analysis and research. 
+Currently, I'm interested in how browsers are made, and conventions for memory safety in interpreters!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously talked at Ruxmon against how Rosetta emulates x86 MachO binaries in the context of game hacks - [here's the link on YouTube](https://youtube.com/watch?v=7Eaf0zIJg5k).
+
+---
